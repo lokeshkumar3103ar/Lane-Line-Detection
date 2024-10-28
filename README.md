@@ -1,5 +1,3 @@
-
-markdown
 # Lane Detection System
 
 A computer vision project for detecting lane lines in road videos. It uses color selection, edge detection, and Hough transforms to overlay lane lines on input videos.
